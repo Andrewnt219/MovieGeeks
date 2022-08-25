@@ -1,7 +1,7 @@
 # Nodeflix :cd:
 Special thanks to [TheMovieDB](https://developers.themoviedb.org/3) for their amazing API.
 
-Project is hosted on Heroku at https://nodeflix.herokuapp.com/
+Project is hosted on Railway App at [nodeflix-production.up.railway.app/](https://nodeflix-production.up.railway.app/collection?sortBy=now_playing)
 
 
 
